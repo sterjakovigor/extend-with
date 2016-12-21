@@ -1,7 +1,7 @@
 {
   "name": "extend-with",
-  "version": "1.0.1",
-  "description": "Extend class with high order components.",
+  "version": "1.0.2",
+  "description": "Multiple inheritance",
   "main": "dist/index.js",
   "scripts": {
     "test": "jasmine",
