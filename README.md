@@ -11,7 +11,7 @@ const withSupermanLevitation =
   }
 
 const withSupermanTelekinesis =
-  (superClass, 'telekinesis') => class extends superClass {
+  (superClass, value) => class extends superClass {
     static telekinesis = value
   }
 
