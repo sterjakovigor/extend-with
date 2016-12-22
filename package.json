@@ -1,6 +1,6 @@
 {
   "name": "extend-with",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Multiple inheritance",
   "main": "dist/index.js",
   "scripts": {
